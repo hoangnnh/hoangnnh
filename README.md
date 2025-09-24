@@ -15,10 +15,10 @@
 ---
 
 ### 🛠️ Languages & Tools
-**Programming:** Javascript, Typescript, Python
-**Web Development:** HTML, CSS, ReactJS + Typescript, NodeJS, ExpressJS, NextJS
-**Other Tools:** Git/GitHub, VSCode, Docker (if applicable), Linux**
-**Currently Learning:** Java for backend development
+- **Programming:** Javascript, Typescript, Python
+- **Web Development:** HTML, CSS, ReactJS + Typescript, NodeJS, ExpressJS, NextJS
+- **Other Tools:** Git/GitHub, VSCode, Docker (if applicable), Linux
+- **Currently Learning:** Java for backend development
 
 ---
 
